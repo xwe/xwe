@@ -1,8 +1,8 @@
 (function() {
   // Initialize the Firebase SDK
   firebase.initializeApp({
-    apiKey: "AIzaSyC5IcRccDo289TTRa3Y7qJIu8YPz3EnKAI",
-    databaseURL: "https://geofire-9d0de.firebaseio.com"
+    apiKey: "AIzaSyAktBZSkOPZGzc9OagJbwItxifkFXct2Vo",
+    databaseURL: "https://itsme-77223.firebaseio.com"
   });
 
   // Generate a random Firebase location
